@@ -38,7 +38,7 @@ It simulates a vehicle's **left**, **right**, and **hazard lights**, triggered b
 ---
 
 ## 🧱 System Architecture
-![System Architecture](/Indicator-Control-System/Indicator_sontrol_system.png)
+![System Architecture](Indicator_sontrol_system.png)
 
 
 
