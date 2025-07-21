@@ -57,7 +57,7 @@ build idf.py -p /dev/ttyUSB0 flash monitor
 ````
 ## 🧪UART Log
 
-![UART Log](/Indicator-Control-System/UART_log.png)
+![UART Log](UART_log.png)
 ---
 
 ## 🔌 GPIO Connections
